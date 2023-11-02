@@ -1,6 +1,6 @@
--- Versjonskontrollens Reise --
+-- Mye Bedre Tittel --
 
-På universitets sti jeg trår,
+På universitetets sti jeg trår,
 Versionskontroll jeg nå skal lære.
 Commits, branches, og mergekommandoer,
 I kodeskogen, jeg finner mine spor.
@@ -9,6 +9,8 @@ Git og GitHub, verden åpner seg,
 Historien i filene jeg forstår nå lett.
 Dagens dato, en ny start, en tid for vekst,
 Med versionskontroll, jeg tar den beste fest.
+
+æ liker hester vveeeeeellliggg høyt
 
 Dato: 02.11.2023
 Universitet: UiT
